@@ -1,5 +1,5 @@
 ### Python web scraper
-> we scrapes job listings on both indeed and StackOverflow, mainly using ```BeautifulSoup```
+> we scrape Python job listings on both Indeed and StackOverflow, mainly using ```BeautifulSoup```
 
 code example below
 ```Python
