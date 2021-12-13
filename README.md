@@ -1,5 +1,5 @@
 ### Python web scraper
-> we scrape Python job listings on both Indeed and StackOverflow, mainly using ```BeautifulSoup```
+> we scrape Python job listings on both <b>Indeed</b> and <b>StackOverflow</b>, mainly using ```BeautifulSoup```
 
 code example below
 ```Python
@@ -14,3 +14,9 @@ def extract_job(html):
         'location':location, 
         'link':f"https://www.indeed.com/viewjob?jk={job_id}"}
 ```
+
+### AlbaHeaven_webscraper
+> we scrape job listing from each company, and save them in individual csv files.
+
+<img width="1253" alt="스크린샷 2021-12-13 17 19 18" src="https://user-images.githubusercontent.com/22133824/145849131-a4bff340-385a-48e5-a9bd-0acb73f86014.png">
+<img width="621" alt="스크린샷 2021-12-13 17 22 49" src="https://user-images.githubusercontent.com/22133824/145849571-b686c506-2f7a-4fe9-a9ea-be6263abe997.png">
