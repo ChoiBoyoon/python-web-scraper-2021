@@ -1,6 +1,6 @@
 ## Web applicaiton of scraper, implemented using Flask
 
-* input: keyword
+* input: job keyword (ex. python, django, vuejs, etc.)
 * output: table of contents including job title, company, location, link. & users can download csv file if they want
 * run code on: https://replit.com/@BoyoonChoi/SuperScrapper#main.py
 
