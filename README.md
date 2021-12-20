@@ -1,4 +1,4 @@
-Three projects below were designed mainly using <b>BeautifulSoup, Requests, Python, and Flask.</b>
+Three projects below were designed mainly using <b>BeautifulSoup</b>, <b>Requests</b>, <b>Python</b>, and <b>Flask.</b>
 
 ### Flask web application
 > Github doesn't support flask. Check the result & code on : https://replit.com/@BoyoonChoi/SuperScrapper#main.py
