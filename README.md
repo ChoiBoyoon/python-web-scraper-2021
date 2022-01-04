@@ -1,7 +1,7 @@
 Three <b>web-scraper</b> projects below were designed mainly using <b>BeautifulSoup</b>, <b>Requests</b>, <b>Python</b>, and <b>Flask.</b>
 
 ### Flask web application
-> Github doesn't support flask. Check the result & code on : https://replit.com/@BoyoonChoi/SuperScrapper#main.py
+> Github doesn't support flask. <br/>Check the result & code on : https://replit.com/@BoyoonChoi/SuperScrapper#main.py
 
 * Takes an input, and search for remote job opening on three websites: 
     * 1. Stackoverflow. f"https://stackoverflow.com/jobs?r=true&q={word}"
@@ -29,7 +29,7 @@ def extract_job(html):
 ```
 
 ### AlbaHeaven_webscraper
-> we scrape job listing from each company, and save them in individual csv files.
+> we scrape job listing from each company, and save them in individual csv files.<br/>
 > you can run my code here: https://replit.com/@BoyoonChoi/AlbaHeaven-Scraper#main.py
 
 <img width="1253" alt="스크린샷 2021-12-13 17 19 18" src="https://user-images.githubusercontent.com/22133824/145849131-a4bff340-385a-48e5-a9bd-0acb73f86014.png">
