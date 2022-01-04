@@ -1,7 +1,7 @@
 Three <b>web-scraper</b> projects below were designed mainly using <b>BeautifulSoup</b>, <b>Requests</b>, <b>Python</b>, and <b>Flask.</b>
 
 ### Flask web application
-> Github doesn't support flask. <br/>Check the result & code on : https://replit.com/@BoyoonChoi/SuperScrapper#main.py
+> Github doesn't support flask. Check the result & code on : https://replit.com/@BoyoonChoi/SuperScrapper#main.py
 
 * Takes an input, and search for remote job opening on three websites: 
     * 1. Stackoverflow. f"https://stackoverflow.com/jobs?r=true&q={word}"
